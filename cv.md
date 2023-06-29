@@ -6,9 +6,9 @@
 
 -   E-mail: ronnyramb@gmail.com
 
--   Discord : @ValeriaStav
+-   Discord : [@ValeriaStav](https://discordapp.com/users/1081906845897211934)
 
--   Telegram: https://t.me/VS_frontJS
+-   Telegram: [@VS_frontJS](https://t.me/VS_frontJS)
 
 -   GitHub: [valeriastav](https://github.com/valeriastav)
 
@@ -16,7 +16,7 @@
 
 ## About me
 
-I am here to fulfill my dream of becoming a web developer. I really hope that with the help of RS School courses I will be able to structure my knowledge, gain confidence and find an interesting job.
+> I am here to fulfill my dream of becoming a web developer. I really hope that with the help of RS School courses I will be able to structure my knowledge, gain confidence and find an interesting job.
 
 ---
 
@@ -50,7 +50,7 @@ function multiply(a, b){
 
 ## Work experience
 
--   ANKO Technologies Corp,
+-   ANKO Technologies Corp,\
     [Entry Level JavaScript/.NET Programmer (Trainee)](https://ankocorp.com/training)
 
 -   https://valeriastav.github.io/weekly-team-report-html-team4/
@@ -69,19 +69,19 @@ function multiply(a, b){
 
 ## Education
 
--   Rostov State Transport University, Rostov-on-Don
+-   **Rostov State Transport University**, Rostov-on-Don\
     Information technologies of management, Automation, telemechanics and communication in railway transport
 
-*   National Research University ITMO, St. Petersburg
+*   **National Research University ITMO**, St. Petersburg\
     [Professional retraining, Web developer](https://design.itmo.ru/courses/web_developer/)
 
-*   Innopolis University,
+*   **Innopolis University**,\
     [GUI Development course](https://stc.innopolis.university/pyqt-python)
 
-*   Stepik,
+*   **Stepik**,\
     ["Generation Python": a course for beginners](https://stepik.org/cert/944979)
 
-*   etc.
+*   freeCodeCamp, hexlet, coursera, etc.
 
 ---
 
