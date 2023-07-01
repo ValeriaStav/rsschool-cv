@@ -53,17 +53,17 @@ function multiply(a, b){
 -   ANKO Technologies Corp,\
     [Entry Level JavaScript/.NET Programmer (Trainee)](https://ankocorp.com/training)
 
--   https://valeriastav.github.io/weekly-team-report-html-team4/
+-   [ANKO "Weekly Team Report" App](https://valeriastav.github.io/weekly-team-report-html-team4/)
 
--   https://valeriastav.github.io/HoneyHome/
+-   [ITMO Graduation project](https://valeriastav.github.io/HoneyHome/)
 
--   https://valeriastav.github.io/PerfectPixel/
+-   [ITMO PerfectPixel](https://valeriastav.github.io/PerfectPixel/)
 
--   https://valeriastav.github.io/Responsive/practiceWEB_6_3.html
+-   [ITMO Adaptive layout](https://valeriastav.github.io/Responsive/practiceWEB_6_3.html)
 
--   https://valeriastav.github.io/PersonalSite/main.html
+-   [ITMO Personal Site](https://valeriastav.github.io/PersonalSite/main.html)
 
--   https://valeriastav.github.io/Frames/frames.html
+-   [ITMO Frames](https://valeriastav.github.io/Frames/frames.html)
 
 ---
 
