@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>cv</title>
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/style.css">
         <link
             rel="shortcut icon"
             href="assets/favicon.ico"
             type="image/x-icon"
-        />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+       >
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link
             href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
             rel="stylesheet"
-        />
+       >
     </head>
 
     <body>
@@ -27,7 +27,7 @@
                             <a href="#contacts" class="nav-link">Contacts</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#aboute-me" class="nav-link">About me</a>
+                            <a href="#about-me" class="nav-link">About me</a>
                         </li>
                         <li class="nav-item">
                             <a href="#skills" class="nav-link">Skills</a>
@@ -52,30 +52,51 @@
                 </nav>
             </div>
         </header>
-        <main class="main">
-            <div class="container">
-                <section class="section">
-                    <h1 class="section-title">Valeriia Stavriadi</h1>
-                </section>
+        <main class="main main-container">
+            <div class="left-container">
+                <div class="section section-image">
+                    <img
+                        class="avatar"
+                        src="./assets/img/ava.jpeg"
+                        alt="avatar"
+                   >
+                </div>
 
                 <section class="section">
                     <h2 class="section-title" id="contacts">Contacts</h2>
-                    <ul>
-                        <li>E-mail: ronnyramb@gmail.com</li>
-                        <li>Discord : @ValeriaStav</li>
-                        <li>Telegram: @VS_frontJS</li>
-                        <li>GitHub: valeriastav</li>
+                    <ul class="section-contacts">
+                        <li>
+                            <img src="./assets/img/email.png" alt="email">
+                            <a href="mailto:ronnyramb@gmail.com"
+                                >ronnyramb@gmail.com</a
+                            >
+                        </li>
+                        <li>
+                            <img src="./assets/img/discord.png" alt="discord">
+                            <a
+                                href="https://discordapp.com/users/1081906845897211934"
+                                target="_blank"
+                                >@ValeriaStav</a
+                            >
+                        </li>
+                        <li>
+                            <img
+                                src="./assets/img/telegram.png"
+                                alt="telegram"
+                           >
+                            <a href="https://t.me/VS_frontJS" target="_blank"
+                                >@VS_frontJSv</a
+                            >
+                        </li>
+                        <li>
+                            <img src="./assets/img/github.png" alt="github">
+                            <a
+                                href="https://github.com/valeriastav"
+                                target="_blank"
+                                >valeriastav</a
+                            >
+                        </li>
                     </ul>
-                </section>
-
-                <section class="section">
-                    <h2 class="section-title" id="aboute-me">About me</h2>
-                    <p>
-                        I am here to fulfill my dream of becoming a web
-                        developer. I really hope that with the help of RS School
-                        courses I will be able to structure my knowledge, gain
-                        confidence and find an interesting job.
-                    </p>
                 </section>
 
                 <section class="section">
@@ -87,26 +108,59 @@
                         <li>JavaScript</li>
                         <li>React</li>
                         <li>Node.js</li>
-                        <li>Git / Github</li>
+                        <li>Git Github</li>
                         <li>OOP</li>
                         <li>Python</li>
                         <li>Qt Designer</li>
-                        <li>Database / SQL Server / SQL</li>
-                        <li>VS Code / PyCharm</li>
-                        <li>Figma / Adobe Illustrator</li>
+                        <li>Database SQL Server SQL</li>
+                        <li>VS Code PyCharm</li>
+                        <li>Figma Adobe Illustrator</li>
                     </ul>
+                </section>
+
+                <section class="section">
+                    <h2 class="section-title" id="english">English</h2>
+                    <ul>
+                        <li>
+                            <a
+                                href="https://simpler.link/c/Vnlkg"
+                                target="_blank"
+                                >B1 - B2</a
+                            >
+                        </li>
+                    </ul>
+                </section>
+            </div>
+
+            <div class="right-container">
+                <section class="section section-name">
+                    <h1 class="name">Valeria Stavriadi</h1>
+                    <p class="prof">
+                        <img
+                            src="./assets/img/frontend.png"
+                            alt="frontend"
+                       >Front-end developer
+                    </p>
+                </section>
+                <section class="section">
+                    <h2 class="section-title" id="about-me">About me</h2>
+                    <p class="section-about-me">
+                        I am here to fulfill my dream of becoming a web
+                        developer. I really hope that with the help of RS School
+                        courses I will be able to structure my knowledge, gain
+                        confidence and find an interesting job.
+                    </p>
                 </section>
 
                 <section class="section">
                     <h2 class="section-title" id="code-example">
                         Code example
                     </h2>
-                    <pre>
+                    <pre class="code">
                         <code>
-    function multiply(a, b){ 
-        return a * b; 
-    }
-                        </code>
+    function multiply(a, b){
+        return a * b;
+    }                   </code>
                     </pre>
                 </section>
 
@@ -116,15 +170,55 @@
                     </h2>
                     <ul>
                         <li>
-                            ANKO Technologies Corp, Entry Level JavaScript/.NET
-                            Programmer (Trainee)
+                            ANKO Technologies Corp, <br>
+                            <a
+                                href="https://ankocorp.com/training"
+                                target="_blank"
+                                >Level JavaScript/.NET Programmer (Trainee)</a
+                            >
                         </li>
-                        <li>ANKO “Weekly Team Report” App</li>
-                        <li>ITMO Graduation project</li>
-                        <li>ITMO PerfectPixel</li>
-                        <li>ITMO Adaptive layout</li>
-                        <li>ITMO Personal Site</li>
-                        <li>ITMO Frames</li>
+                        <li>
+                            <a
+                                href="https://valeriastav.github.io/weekly-team-report-html-team4/"
+                                target="_blank"
+                                >ANKO “Weekly Team Report” App</a
+                            >
+                        </li>
+                        <li>
+                            <a
+                                href="https://valeriastav.github.io/HoneyHome/"
+                                target="_blank"
+                                >ITMO Graduation project</a
+                            >
+                        </li>
+                        <li>
+                            <a
+                                href="https://valeriastav.github.io/PerfectPixel/"
+                                target="_blank"
+                                >ITMO PerfectPixel</a
+                            >
+                        </li>
+                        <li>
+                            <a
+                                href="https://valeriastav.github.io/Responsive/practiceWEB_6_3.html"
+                                target="_blank"
+                                >ITMO Adaptive layout</a
+                            >
+                        </li>
+                        <li>
+                            <a
+                                href="https://valeriastav.github.io/PersonalSite/main.html"
+                                target="_blank"
+                                >ITMO Personal Site</a
+                            >
+                        </li>
+                        <li>
+                            <a
+                                href="https://valeriastav.github.io/Frames/frames.html"
+                                target="_blank"
+                                >ITMO Frames</a
+                            >
+                        </li>
                     </ul>
                 </section>
 
@@ -132,32 +226,66 @@
                     <h2 class="section-title" id="education">Education</h2>
                     <ul>
                         <li>
-                            Rostov State Transport University, Rostov-on-Don
-                            Information technologies of management, Automation,
-                            telemechanics and communication in railway transport
+                            <b>Rostov State Transport University,</b>
+                            Rostov-on-Don<br>
+                            <a
+                                href="https://www.rgups.ru/university/struktura-i-organy-upravleniia-1632/kafedry-rostovskogo-gosudarstv-127/kafedra-sviaz-na-zheleznodorozhn-262/"
+                                target="_blank"
+                                >Information technologies of management,
+                                Automation, telemechanics and communication in
+                                railway transport</a
+                            >
                         </li>
                         <li>
-                            National Research University ITMO, St. Petersburg
-                            Professional retraining, Web developer
+                            <b>National Research University ITMO,</b> St.
+                            Petersburg<br>
+                            <a
+                                href="https://design.itmo.ru/courses/web_developer/"
+                                target="_blank"
+                                >Professional retraining, Web developer</a
+                            >
                         </li>
-                        <li>Innopolis University, GUI Development course</li>
                         <li>
-                            Stepik, “Generation Python”: a course for beginners
+                            <b>Innopolis University,</b><br>
+                            <a
+                                href="https://stc.innopolis.university/pyqt-python"
+                                target="_blank"
+                                >GUI Development course</a
+                            >
+                        </li>
+                        <li>
+                            <b>Stepik,</b><br>
+                            <a
+                                href="https://stepik.org/cert/944979"
+                                target="_blank"
+                                >“Generation Python”: a course for beginners</a
+                            >
                         </li>
                         <li>freeCodeCamp, hexlet, coursera, etc.</li>
-                    </ul>
-                </section>
-
-                <section class="section">
-                    <h2 class="section-title" id="english">English</h2>
-                    <ul>
-                        <li>B1 - B2</li>
                     </ul>
                 </section>
             </div>
         </main>
         <footer class="footer">
-            <div class="container"></div>
+            <div class="container-footer">
+                <div class="section-footer">
+                    <a href="https://github.com/valeriastav" target="_blank"
+                        ><img
+                            src="./assets/img/github-50.png"
+                            alt="github"
+                       >valeriastav</a
+                    >
+                </div>
+                <div class="section-footer">2023</div>
+                <div class="section-footer">
+                    <a href="https://rs.school/js/" target="_blank"
+                        ><img
+                            src="./assets/img/rs_school_js.svg"
+                            alt="RS School"
+                            width="100"
+                   ></a>
+                </div>
+            </div>
         </footer>
     </body>
 </html>
