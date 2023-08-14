@@ -50,6 +50,10 @@ function multiply(a, b){
 
 ## Work experience
 
+-   RS School, «JavaScript/Front-end. Stage 0»,\
+    [Brooklyn Public Library](https://rolling-scopes-school.github.io/valeriastav-JSFEPRESCHOOL2023Q2/library/)\
+    [CV](https://valeriastav.github.io/rsschool-cv/)
+
 -   ANKO Technologies Corp,\
     [Entry Level JavaScript/.NET Programmer (Trainee)](https://ankocorp.com/training)
 
@@ -70,13 +74,16 @@ function multiply(a, b){
 ## Education
 
 -   **Rostov State Transport University**, Rostov-on-Don\
-    Information technologies of management, Automation, telemechanics and communication in railway transport
+    [Information technologies of management, Automation, telemechanics and communication in railway transport](https://www.rgups.ru/university/struktura-i-organy-upravleniia-1632/kafedry-rostovskogo-gosudarstv-127/kafedra-sviaz-na-zheleznodorozhn-262/)
 
 *   **National Research University ITMO**, St. Petersburg\
     [Professional retraining, Web developer](https://design.itmo.ru/courses/web_developer/)
 
 *   **Innopolis University**,\
     [GUI Development course](https://stc.innopolis.university/pyqt-python)
+
+*   **RS School**,\
+    [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
 
 *   **Stepik**,\
     ["Generation Python": a course for beginners](https://stepik.org/cert/944979)
