@@ -23,8 +23,8 @@
 ## Skills
 
 -   HTML5
+-   CSS3 (SCSS, SASS)
 -   Bootstrap
--   CSS3, SASS
 -   JavaScript
 -   React
 -   Node.js
@@ -87,4 +87,6 @@ function multiply(a, b){
 
 ## English
 
--   [B1 - B2](https://simpler.link/c/Vnlkg)
+-   **B1 - B2**:\
+    [EF SET Certificate](https://www.efset.org/cert/fKRwLr)\
+    [Simpler Certificate](https://simpler.link/c/Vnlkg)
