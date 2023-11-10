@@ -50,7 +50,7 @@ function multiply(a, b){
 
 ## Work experience
 
--   RS School, «JavaScript/Front-end. Stage 0»,\
+-   [RS School, «JavaScript/Front-end. Stage 0»,](https://rs.school/js-stage0/)\
     [Brooklyn Public Library](https://rolling-scopes-school.github.io/valeriastav-JSFEPRESCHOOL2023Q2/library/)\
     [CV](https://valeriastav.github.io/rsschool-cv/)
 
@@ -83,7 +83,7 @@ function multiply(a, b){
     [GUI Development course](https://stc.innopolis.university/pyqt-python)
 
 *   **RS School**,\
-    [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
+     [«JavaScript/Front-end. Stage 0»](https://app.rs.school/certificate/tob2uyeb)
 
 *   **Stepik**,\
     ["Generation Python": a course for beginners](https://stepik.org/cert/944979)
